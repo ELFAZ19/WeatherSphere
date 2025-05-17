@@ -1,6 +1,9 @@
 # 🌦️ WeatherSphere
 
-**preview**
+# preview
+# link  https://weathersphere-web.netlify.app/
+
+#Screanshoot
 ![Screenshot 2025-05-17 145245-modified](https://github.com/user-attachments/assets/390c5edd-843a-4589-b5ad-f1972e34a2e5)
 ![Screenshot 2025-05-17 145406-modified](https://github.com/user-attachments/assets/6250c6c7-fe85-4a27-bbfb-7bb604791e17)
 
